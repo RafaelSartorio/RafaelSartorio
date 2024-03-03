@@ -1,10 +1,10 @@
 <h1>Meu nome é Rafael Sartório</h1>
 <p>As linguagens de programação que eu sei</p>
-<ol>
+<ul>
  <li>C/C++</li>
  <li>Phyton</li>
  <li>Java</li>
-</ol>
+</ul>
   
 <!--  
 **RafaelSar torio/RafaelSartorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
